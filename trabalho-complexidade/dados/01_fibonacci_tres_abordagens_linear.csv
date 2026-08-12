@@ -1,0 +1,100 @@
+grafico,serie,n,tempo_s
+01_fibonacci_tres_abordagens_linear,1. Definição (recursiva) — Θ(φⁿ),0,4.97897010337e-08
+01_fibonacci_tres_abordagens_linear,1. Definição (recursiva) — Θ(φⁿ),1,4.93701680309e-08
+01_fibonacci_tres_abordagens_linear,1. Definição (recursiva) — Θ(φⁿ),2,1.20471028982e-07
+01_fibonacci_tres_abordagens_linear,1. Definição (recursiva) — Θ(φⁿ),3,1.93546572679e-07
+01_fibonacci_tres_abordagens_linear,1. Definição (recursiva) — Θ(φⁿ),4,3.74062018754e-07
+01_fibonacci_tres_abordagens_linear,1. Definição (recursiva) — Θ(φⁿ),5,5.94099298182e-07
+01_fibonacci_tres_abordagens_linear,1. Definição (recursiva) — Θ(φⁿ),6,1.00723142149e-06
+01_fibonacci_tres_abordagens_linear,1. Definição (recursiva) — Θ(φⁿ),7,1.63952634249e-06
+01_fibonacci_tres_abordagens_linear,1. Definição (recursiva) — Θ(φⁿ),8,2.72670025188e-06
+01_fibonacci_tres_abordagens_linear,1. Definição (recursiva) — Θ(φⁿ),9,4.28490935828e-06
+01_fibonacci_tres_abordagens_linear,1. Definição (recursiva) — Θ(φⁿ),10,6.6734426228e-06
+01_fibonacci_tres_abordagens_linear,1. Definição (recursiva) — Θ(φⁿ),11,1.13082394364e-05
+01_fibonacci_tres_abordagens_linear,1. Definição (recursiva) — Θ(φⁿ),12,1.83550943399e-05
+01_fibonacci_tres_abordagens_linear,1. Definição (recursiva) — Θ(φⁿ),13,2.91742559528e-05
+01_fibonacci_tres_abordagens_linear,1. Definição (recursiva) — Θ(φⁿ),14,4.73375598087e-05
+01_fibonacci_tres_abordagens_linear,1. Definição (recursiva) — Θ(φⁿ),15,7.63546511615e-05
+01_fibonacci_tres_abordagens_linear,1. Definição (recursiva) — Θ(φⁿ),16,0.000123814814815
+01_fibonacci_tres_abordagens_linear,1. Definição (recursiva) — Θ(φⁿ),17,0.000201370588234
+01_fibonacci_tres_abordagens_linear,1. Definição (recursiva) — Θ(φⁿ),18,0.000326340000008
+01_fibonacci_tres_abordagens_linear,1. Definição (recursiva) — Θ(φⁿ),19,0.000641840000026
+01_fibonacci_tres_abordagens_linear,1. Definição (recursiva) — Θ(φⁿ),20,0.000868650000029
+01_fibonacci_tres_abordagens_linear,1. Definição (recursiva) — Θ(φⁿ),21,0.00138742500008
+01_fibonacci_tres_abordagens_linear,1. Definição (recursiva) — Θ(φⁿ),22,0.00222740000008
+01_fibonacci_tres_abordagens_linear,1. Definição (recursiva) — Θ(φⁿ),23,0.00356326666648
+01_fibonacci_tres_abordagens_linear,1. Definição (recursiva) — Θ(φⁿ),24,0.00578519999999
+01_fibonacci_tres_abordagens_linear,1. Definição (recursiva) — Θ(φⁿ),25,0.00931230000015
+01_fibonacci_tres_abordagens_linear,1. Definição (recursiva) — Θ(φⁿ),26,0.0149495999995
+01_fibonacci_tres_abordagens_linear,1. Definição (recursiva) — Θ(φⁿ),27,0.0244527000004
+01_fibonacci_tres_abordagens_linear,1. Definição (recursiva) — Θ(φⁿ),28,0.0407840000007
+01_fibonacci_tres_abordagens_linear,1. Definição (recursiva) — Θ(φⁿ),29,0.0662856999998
+01_fibonacci_tres_abordagens_linear,1. Definição (recursiva) — Θ(φⁿ),30,0.104867
+01_fibonacci_tres_abordagens_linear,1. Definição (recursiva) — Θ(φⁿ),31,0.1719826
+01_fibonacci_tres_abordagens_linear,1. Definição (recursiva) — Θ(φⁿ),32,0.2793441
+01_fibonacci_tres_abordagens_linear,2. Iterativa — Θ(n),0,5.13084989746e-08
+01_fibonacci_tres_abordagens_linear,2. Iterativa — Θ(n),1,5.00280000006e-08
+01_fibonacci_tres_abordagens_linear,2. Iterativa — Θ(n),2,1.48047519517e-07
+01_fibonacci_tres_abordagens_linear,2. Iterativa — Θ(n),3,1.58533333342e-07
+01_fibonacci_tres_abordagens_linear,2. Iterativa — Θ(n),4,1.74204000007e-07
+01_fibonacci_tres_abordagens_linear,2. Iterativa — Θ(n),5,1.91111022233e-07
+01_fibonacci_tres_abordagens_linear,2. Iterativa — Θ(n),6,2.05366666669e-07
+01_fibonacci_tres_abordagens_linear,2. Iterativa — Θ(n),7,2.14959401624e-07
+01_fibonacci_tres_abordagens_linear,2. Iterativa — Θ(n),8,2.32143357128e-07
+01_fibonacci_tres_abordagens_linear,2. Iterativa — Θ(n),9,2.42920000001e-07
+01_fibonacci_tres_abordagens_linear,2. Iterativa — Θ(n),10,2.5765484691e-07
+01_fibonacci_tres_abordagens_linear,2. Iterativa — Θ(n),11,2.82547500001e-07
+01_fibonacci_tres_abordagens_linear,2. Iterativa — Θ(n),12,2.90454999981e-07
+01_fibonacci_tres_abordagens_linear,2. Iterativa — Θ(n),13,2.99309999991e-07
+01_fibonacci_tres_abordagens_linear,2. Iterativa — Θ(n),14,3.2561999999e-07
+01_fibonacci_tres_abordagens_linear,2. Iterativa — Θ(n),15,3.54806282148e-07
+01_fibonacci_tres_abordagens_linear,2. Iterativa — Θ(n),16,3.70996666667e-07
+01_fibonacci_tres_abordagens_linear,2. Iterativa — Θ(n),17,3.91988660229e-07
+01_fibonacci_tres_abordagens_linear,2. Iterativa — Θ(n),18,4.18452630965e-07
+01_fibonacci_tres_abordagens_linear,2. Iterativa — Θ(n),19,4.36326273469e-07
+01_fibonacci_tres_abordagens_linear,2. Iterativa — Θ(n),20,4.59918801615e-07
+01_fibonacci_tres_abordagens_linear,2. Iterativa — Θ(n),21,4.81464370702e-07
+01_fibonacci_tres_abordagens_linear,2. Iterativa — Θ(n),22,5.10421791574e-07
+01_fibonacci_tres_abordagens_linear,2. Iterativa — Θ(n),23,5.33973301305e-07
+01_fibonacci_tres_abordagens_linear,2. Iterativa — Θ(n),24,5.73854999993e-07
+01_fibonacci_tres_abordagens_linear,2. Iterativa — Θ(n),25,5.8990280777e-07
+01_fibonacci_tres_abordagens_linear,2. Iterativa — Θ(n),26,6.10826133907e-07
+01_fibonacci_tres_abordagens_linear,2. Iterativa — Θ(n),27,6.2602591793e-07
+01_fibonacci_tres_abordagens_linear,2. Iterativa — Θ(n),28,6.49565000003e-07
+01_fibonacci_tres_abordagens_linear,2. Iterativa — Θ(n),29,6.61998800126e-07
+01_fibonacci_tres_abordagens_linear,2. Iterativa — Θ(n),30,6.73421328937e-07
+01_fibonacci_tres_abordagens_linear,2. Iterativa — Θ(n),31,7.02600791934e-07
+01_fibonacci_tres_abordagens_linear,2. Iterativa — Θ(n),32,7.34451554852e-07
+01_fibonacci_tres_abordagens_linear,3. Matricial — Θ(log n),0,5.29089418251e-08
+01_fibonacci_tres_abordagens_linear,3. Matricial — Θ(log n),1,6.49004000188e-08
+01_fibonacci_tres_abordagens_linear,3. Matricial — Θ(log n),2,3.88679317337e-07
+01_fibonacci_tres_abordagens_linear,3. Matricial — Θ(log n),3,5.70049999988e-07
+01_fibonacci_tres_abordagens_linear,3. Matricial — Θ(log n),4,7.11103889626e-07
+01_fibonacci_tres_abordagens_linear,3. Matricial — Θ(log n),5,7.56299874047e-07
+01_fibonacci_tres_abordagens_linear,3. Matricial — Θ(log n),6,8.71658267359e-07
+01_fibonacci_tres_abordagens_linear,3. Matricial — Θ(log n),7,8.55955213417e-07
+01_fibonacci_tres_abordagens_linear,3. Matricial — Θ(log n),8,9.77531522149e-07
+01_fibonacci_tres_abordagens_linear,3. Matricial — Θ(log n),9,9.93161094309e-07
+01_fibonacci_tres_abordagens_linear,3. Matricial — Θ(log n),10,1.09434222632e-06
+01_fibonacci_tres_abordagens_linear,3. Matricial — Θ(log n),11,1.11388930549e-06
+01_fibonacci_tres_abordagens_linear,3. Matricial — Θ(log n),12,1.2524391301e-06
+01_fibonacci_tres_abordagens_linear,3. Matricial — Θ(log n),13,1.11286345085e-06
+01_fibonacci_tres_abordagens_linear,3. Matricial — Θ(log n),14,1.22484503102e-06
+01_fibonacci_tres_abordagens_linear,3. Matricial — Θ(log n),15,1.28583776598e-06
+01_fibonacci_tres_abordagens_linear,3. Matricial — Θ(log n),16,1.43370058952e-06
+01_fibonacci_tres_abordagens_linear,3. Matricial — Θ(log n),17,1.30104997899e-06
+01_fibonacci_tres_abordagens_linear,3. Matricial — Θ(log n),18,1.45547112456e-06
+01_fibonacci_tres_abordagens_linear,3. Matricial — Θ(log n),19,1.46968142546e-06
+01_fibonacci_tres_abordagens_linear,3. Matricial — Θ(log n),20,1.6200459908e-06
+01_fibonacci_tres_abordagens_linear,3. Matricial — Θ(log n),21,1.52299194176e-06
+01_fibonacci_tres_abordagens_linear,3. Matricial — Θ(log n),22,1.62553938129e-06
+01_fibonacci_tres_abordagens_linear,3. Matricial — Θ(log n),23,1.63160718455e-06
+01_fibonacci_tres_abordagens_linear,3. Matricial — Θ(log n),24,1.71785085792e-06
+01_fibonacci_tres_abordagens_linear,3. Matricial — Θ(log n),25,1.49191864646e-06
+01_fibonacci_tres_abordagens_linear,3. Matricial — Θ(log n),26,1.6314119871e-06
+01_fibonacci_tres_abordagens_linear,3. Matricial — Θ(log n),27,1.60310128669e-06
+01_fibonacci_tres_abordagens_linear,3. Matricial — Θ(log n),28,1.79470842324e-06
+01_fibonacci_tres_abordagens_linear,3. Matricial — Θ(log n),29,1.62178502877e-06
+01_fibonacci_tres_abordagens_linear,3. Matricial — Θ(log n),30,1.72311353773e-06
+01_fibonacci_tres_abordagens_linear,3. Matricial — Θ(log n),31,1.7572921249e-06
+01_fibonacci_tres_abordagens_linear,3. Matricial — Θ(log n),32,1.87770578346e-06

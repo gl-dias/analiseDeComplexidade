@@ -1,0 +1,17 @@
+grafico,serie,n,tempo_s
+05_pell_iterativa_vs_matricial,2. Iterativa — Θ(n),1000,7.08176000007e-05
+05_pell_iterativa_vs_matricial,2. Iterativa — Θ(n),2000,0.00019285882353
+05_pell_iterativa_vs_matricial,2. Iterativa — Θ(n),5000,0.000928527272746
+05_pell_iterativa_vs_matricial,2. Iterativa — Θ(n),10000,0.00324049999995
+05_pell_iterativa_vs_matricial,2. Iterativa — Θ(n),20000,0.0114965000002
+05_pell_iterativa_vs_matricial,2. Iterativa — Θ(n),50000,0.0660641000004
+05_pell_iterativa_vs_matricial,2. Iterativa — Θ(n),100000,0.2580603
+05_pell_iterativa_vs_matricial,2. Iterativa — Θ(n),200000,1.0369861
+05_pell_iterativa_vs_matricial,3. Matricial — Θ(log n),1000,1.15038834951e-05
+05_pell_iterativa_vs_matricial,3. Matricial — Θ(log n),2000,2.94784053148e-05
+05_pell_iterativa_vs_matricial,3. Matricial — Θ(log n),5000,0.000171338679241
+05_pell_iterativa_vs_matricial,3. Matricial — Θ(log n),10000,0.000534578947353
+05_pell_iterativa_vs_matricial,3. Matricial — Θ(log n),20000,0.00165682857135
+05_pell_iterativa_vs_matricial,3. Matricial — Θ(log n),50000,0.00612765000005
+05_pell_iterativa_vs_matricial,3. Matricial — Θ(log n),100000,0.0181186999998
+05_pell_iterativa_vs_matricial,3. Matricial — Θ(log n),200000,0.0550432

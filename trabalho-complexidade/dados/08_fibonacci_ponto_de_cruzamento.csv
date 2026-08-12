@@ -1,0 +1,21 @@
+grafico,serie,n,tempo_s
+08_fibonacci_ponto_de_cruzamento,2. Iterativa — Θ(n),10,2.71431843623e-07
+08_fibonacci_ponto_de_cruzamento,2. Iterativa — Θ(n),30,6.7118655507e-07
+08_fibonacci_ponto_de_cruzamento,2. Iterativa — Θ(n),60,1.32624190069e-06
+08_fibonacci_ponto_de_cruzamento,2. Iterativa — Θ(n),100,2.2104143544e-06
+08_fibonacci_ponto_de_cruzamento,2. Iterativa — Θ(n),150,3.48225371112e-06
+08_fibonacci_ponto_de_cruzamento,2. Iterativa — Θ(n),200,4.56169006486e-06
+08_fibonacci_ponto_de_cruzamento,2. Iterativa — Θ(n),300,7.40898538265e-06
+08_fibonacci_ponto_de_cruzamento,2. Iterativa — Θ(n),500,1.43499999999e-05
+08_fibonacci_ponto_de_cruzamento,2. Iterativa — Θ(n),1000,3.33251879685e-05
+08_fibonacci_ponto_de_cruzamento,2. Iterativa — Θ(n),2000,7.61815789454e-05
+08_fibonacci_ponto_de_cruzamento,3. Matricial — Θ(log n),10,1.14829373646e-06
+08_fibonacci_ponto_de_cruzamento,3. Matricial — Θ(log n),30,1.70963378424e-06
+08_fibonacci_ponto_de_cruzamento,3. Matricial — Θ(log n),60,2.30484930874e-06
+08_fibonacci_ponto_de_cruzamento,3. Matricial — Θ(log n),100,2.61288458262e-06
+08_fibonacci_ponto_de_cruzamento,3. Matricial — Θ(log n),150,3.05078260852e-06
+08_fibonacci_ponto_de_cruzamento,3. Matricial — Θ(log n),200,3.25011198195e-06
+08_fibonacci_ponto_de_cruzamento,3. Matricial — Θ(log n),300,3.83788174141e-06
+08_fibonacci_ponto_de_cruzamento,3. Matricial — Θ(log n),500,4.83331067291e-06
+08_fibonacci_ponto_de_cruzamento,3. Matricial — Θ(log n),1000,7.09315429174e-06
+08_fibonacci_ponto_de_cruzamento,3. Matricial — Θ(log n),2000,1.40425661917e-05

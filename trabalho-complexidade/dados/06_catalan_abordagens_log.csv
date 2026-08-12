@@ -1,0 +1,52 @@
+grafico,serie,n,tempo_s
+06_catalan_abordagens_log,1. Definição (recursiva) — Θ(3ⁿ),0,5.23714525703e-08
+06_catalan_abordagens_log,1. Definição (recursiva) — Θ(3ⁿ),1,4.910143552e-08
+06_catalan_abordagens_log,1. Definição (recursiva) — Θ(3ⁿ),2,2.99165294759e-07
+06_catalan_abordagens_log,1. Definição (recursiva) — Θ(3ⁿ),3,9.08106918904e-07
+06_catalan_abordagens_log,1. Definição (recursiva) — Θ(3ⁿ),4,2.84234560742e-06
+06_catalan_abordagens_log,1. Definição (recursiva) — Θ(3ⁿ),5,8.38627968324e-06
+06_catalan_abordagens_log,1. Definição (recursiva) — Θ(3ⁿ),6,2.52153645839e-05
+06_catalan_abordagens_log,1. Definição (recursiva) — Θ(3ⁿ),7,7.26988549604e-05
+06_catalan_abordagens_log,1. Definição (recursiva) — Θ(3ⁿ),8,0.000223423333339
+06_catalan_abordagens_log,1. Definição (recursiva) — Θ(3ⁿ),9,0.000681633333321
+06_catalan_abordagens_log,1. Definição (recursiva) — Θ(3ⁿ),10,0.0019997833333
+06_catalan_abordagens_log,1. Definição (recursiva) — Θ(3ⁿ),11,0.00607265000008
+06_catalan_abordagens_log,1. Definição (recursiva) — Θ(3ⁿ),12,0.0180879
+06_catalan_abordagens_log,1. Definição (recursiva) — Θ(3ⁿ),13,0.0548530999995
+06_catalan_abordagens_log,1. Definição (recursiva) — Θ(3ⁿ),14,0.1596677
+06_catalan_abordagens_log,1. Definição (recursiva) — Θ(3ⁿ),15,0.491478700001
+06_catalan_abordagens_log,1. Definição (recursiva) — Θ(3ⁿ),16,1.4609
+06_catalan_abordagens_log,2. DP por convolução — Θ(n²),0,2.06727501816e-07
+06_catalan_abordagens_log,2. DP por convolução — Θ(n²),1,3.16634583645e-07
+06_catalan_abordagens_log,2. DP por convolução — Θ(n²),2,4.47732045375e-07
+06_catalan_abordagens_log,2. DP por convolução — Θ(n²),3,6.35902627781e-07
+06_catalan_abordagens_log,2. DP por convolução — Θ(n²),4,8.25689944781e-07
+06_catalan_abordagens_log,2. DP por convolução — Θ(n²),5,1.08149937004e-06
+06_catalan_abordagens_log,2. DP por convolução — Θ(n²),6,1.34337006074e-06
+06_catalan_abordagens_log,2. DP por convolução — Θ(n²),7,1.66053673554e-06
+06_catalan_abordagens_log,2. DP por convolução — Θ(n²),8,2.13064254866e-06
+06_catalan_abordagens_log,2. DP por convolução — Θ(n²),9,2.6673065387e-06
+06_catalan_abordagens_log,2. DP por convolução — Θ(n²),10,3.2935107786e-06
+06_catalan_abordagens_log,2. DP por convolução — Θ(n²),11,3.95909286331e-06
+06_catalan_abordagens_log,2. DP por convolução — Θ(n²),12,4.80845032385e-06
+06_catalan_abordagens_log,2. DP por convolução — Θ(n²),13,5.54678260876e-06
+06_catalan_abordagens_log,2. DP por convolução — Θ(n²),14,6.16553365051e-06
+06_catalan_abordagens_log,2. DP por convolução — Θ(n²),15,6.96564349102e-06
+06_catalan_abordagens_log,2. DP por convolução — Θ(n²),16,7.81855760739e-06
+06_catalan_abordagens_log,3. Fórmula multiplicativa — Θ(n),0,9.91077321338e-08
+06_catalan_abordagens_log,3. Fórmula multiplicativa — Θ(n),1,1.47842499996e-07
+06_catalan_abordagens_log,3. Fórmula multiplicativa — Θ(n),2,1.90238333334e-07
+06_catalan_abordagens_log,3. Fórmula multiplicativa — Θ(n),3,2.38954220923e-07
+06_catalan_abordagens_log,3. Fórmula multiplicativa — Θ(n),4,2.78844846211e-07
+06_catalan_abordagens_log,3. Fórmula multiplicativa — Θ(n),5,3.1874156293e-07
+06_catalan_abordagens_log,3. Fórmula multiplicativa — Θ(n),6,3.80890382186e-07
+06_catalan_abordagens_log,3. Fórmula multiplicativa — Θ(n),7,4.46783564317e-07
+06_catalan_abordagens_log,3. Fórmula multiplicativa — Θ(n),8,5.37150295149e-07
+06_catalan_abordagens_log,3. Fórmula multiplicativa — Θ(n),9,6.0139199999e-07
+06_catalan_abordagens_log,3. Fórmula multiplicativa — Θ(n),10,6.57721382309e-07
+06_catalan_abordagens_log,3. Fórmula multiplicativa — Θ(n),11,7.47930165591e-07
+06_catalan_abordagens_log,3. Fórmula multiplicativa — Θ(n),12,8.11285887141e-07
+06_catalan_abordagens_log,3. Fórmula multiplicativa — Θ(n),13,8.876801232e-07
+06_catalan_abordagens_log,3. Fórmula multiplicativa — Θ(n),14,9.26004159641e-07
+06_catalan_abordagens_log,3. Fórmula multiplicativa — Θ(n),15,1.00558555314e-06
+06_catalan_abordagens_log,3. Fórmula multiplicativa — Θ(n),16,1.07583648327e-06

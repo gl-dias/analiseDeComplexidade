@@ -1,0 +1,16 @@
+grafico,serie,n,tempo_s
+07_catalan_dp_vs_formula,2. DP por convolução — Θ(n²),50,8.25348958292e-05
+07_catalan_dp_vs_formula,2. DP por convolução — Θ(n²),100,0.000345313793081
+07_catalan_dp_vs_formula,2. DP por convolução — Θ(n²),200,0.00153729999991
+07_catalan_dp_vs_formula,2. DP por convolução — Θ(n²),400,0.00946605000036
+07_catalan_dp_vs_formula,2. DP por convolução — Θ(n²),800,0.0826109
+07_catalan_dp_vs_formula,3. Fórmula multiplicativa — Θ(n),50,4.45189969594e-06
+07_catalan_dp_vs_formula,3. Fórmula multiplicativa — Θ(n),100,9.09858490537e-06
+07_catalan_dp_vs_formula,3. Fórmula multiplicativa — Θ(n),200,2.2611002445e-05
+07_catalan_dp_vs_formula,3. Fórmula multiplicativa — Θ(n),400,6.25098039213e-05
+07_catalan_dp_vs_formula,3. Fórmula multiplicativa — Θ(n),800,0.000187496938767
+07_catalan_dp_vs_formula,"3b. math.comb (mesma ordem, constante menor)",50,3.99407600599e-07
+07_catalan_dp_vs_formula,"3b. math.comb (mesma ordem, constante menor)",100,1.46342624058e-06
+07_catalan_dp_vs_formula,"3b. math.comb (mesma ordem, constante menor)",200,5.30410788355e-06
+07_catalan_dp_vs_formula,"3b. math.comb (mesma ordem, constante menor)",400,1.76847880298e-05
+07_catalan_dp_vs_formula,"3b. math.comb (mesma ordem, constante menor)",800,5.77194444481e-05

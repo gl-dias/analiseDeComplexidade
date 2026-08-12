@@ -1,0 +1,100 @@
+grafico,serie,n,tempo_s
+04_pell_abordagens_log,1. Definição (recursiva) — Θ(φⁿ),0,4.80657053522e-08
+04_pell_abordagens_log,1. Definição (recursiva) — Θ(φⁿ),1,4.7806666666e-08
+04_pell_abordagens_log,1. Definição (recursiva) — Θ(φⁿ),2,1.23373078238e-07
+04_pell_abordagens_log,1. Definição (recursiva) — Θ(φⁿ),3,1.97268304643e-07
+04_pell_abordagens_log,1. Definição (recursiva) — Θ(φⁿ),4,3.76189476206e-07
+04_pell_abordagens_log,1. Definição (recursiva) — Θ(φⁿ),5,6.25034999985e-07
+04_pell_abordagens_log,1. Definição (recursiva) — Θ(φⁿ),6,1.05530589391e-06
+04_pell_abordagens_log,1. Definição (recursiva) — Θ(φⁿ),7,1.69626207475e-06
+04_pell_abordagens_log,1. Definição (recursiva) — Θ(φⁿ),8,2.7862666201e-06
+04_pell_abordagens_log,1. Definição (recursiva) — Θ(φⁿ),9,4.51647118799e-06
+04_pell_abordagens_log,1. Definição (recursiva) — Θ(φⁿ),10,7.43589243932e-06
+04_pell_abordagens_log,1. Definição (recursiva) — Θ(φⁿ),11,1.20015114872e-05
+04_pell_abordagens_log,1. Definição (recursiva) — Θ(φⁿ),12,2.01036290328e-05
+04_pell_abordagens_log,1. Definição (recursiva) — Θ(φⁿ),13,3.23990536275e-05
+04_pell_abordagens_log,1. Definição (recursiva) — Θ(φⁿ),14,5.29213513506e-05
+04_pell_abordagens_log,1. Definição (recursiva) — Θ(φⁿ),15,8.7305128211e-05
+04_pell_abordagens_log,1. Definição (recursiva) — Θ(φⁿ),16,0.000137647887321
+04_pell_abordagens_log,1. Definição (recursiva) — Θ(φⁿ),17,0.000221363636363
+04_pell_abordagens_log,1. Definição (recursiva) — Θ(φⁿ),18,0.000363946428576
+04_pell_abordagens_log,1. Definição (recursiva) — Θ(φⁿ),19,0.000581299999996
+04_pell_abordagens_log,1. Definição (recursiva) — Θ(φⁿ),20,0.00092745454549
+04_pell_abordagens_log,1. Definição (recursiva) — Θ(φⁿ),21,0.00149235714278
+04_pell_abordagens_log,1. Definição (recursiva) — Θ(φⁿ),22,0.00247693999991
+04_pell_abordagens_log,1. Definição (recursiva) — Θ(φⁿ),23,0.0039313999999
+04_pell_abordagens_log,1. Definição (recursiva) — Θ(φⁿ),24,0.00637090000009
+04_pell_abordagens_log,1. Definição (recursiva) — Θ(φⁿ),25,0.0106163
+04_pell_abordagens_log,1. Definição (recursiva) — Θ(φⁿ),26,0.0180866999999
+04_pell_abordagens_log,1. Definição (recursiva) — Θ(φⁿ),27,0.0272503999995
+04_pell_abordagens_log,1. Definição (recursiva) — Θ(φⁿ),28,0.0424792000003
+04_pell_abordagens_log,1. Definição (recursiva) — Θ(φⁿ),29,0.0702975000004
+04_pell_abordagens_log,1. Definição (recursiva) — Θ(φⁿ),30,0.1119045
+04_pell_abordagens_log,1. Definição (recursiva) — Θ(φⁿ),31,0.1815643
+04_pell_abordagens_log,1. Definição (recursiva) — Θ(φⁿ),32,0.2957229
+04_pell_abordagens_log,2. Iterativa — Θ(n),0,5.00416562522e-08
+04_pell_abordagens_log,2. Iterativa — Θ(n),1,5.17044659107e-08
+04_pell_abordagens_log,2. Iterativa — Θ(n),2,1.55602051835e-07
+04_pell_abordagens_log,2. Iterativa — Θ(n),3,1.71331813387e-07
+04_pell_abordagens_log,2. Iterativa — Θ(n),4,1.96233575323e-07
+04_pell_abordagens_log,2. Iterativa — Θ(n),5,2.08849999999e-07
+04_pell_abordagens_log,2. Iterativa — Θ(n),6,2.50605999991e-07
+04_pell_abordagens_log,2. Iterativa — Θ(n),7,2.70963951788e-07
+04_pell_abordagens_log,2. Iterativa — Θ(n),8,3.08382499998e-07
+04_pell_abordagens_log,2. Iterativa — Θ(n),9,3.43849456343e-07
+04_pell_abordagens_log,2. Iterativa — Θ(n),10,3.82010359798e-07
+04_pell_abordagens_log,2. Iterativa — Θ(n),11,4.23078538433e-07
+04_pell_abordagens_log,2. Iterativa — Θ(n),12,4.63543916486e-07
+04_pell_abordagens_log,2. Iterativa — Θ(n),13,5.13323434132e-07
+04_pell_abordagens_log,2. Iterativa — Θ(n),14,5.34877209814e-07
+04_pell_abordagens_log,2. Iterativa — Θ(n),15,5.67334613224e-07
+04_pell_abordagens_log,2. Iterativa — Θ(n),16,6.04483641306e-07
+04_pell_abordagens_log,2. Iterativa — Θ(n),17,6.39268858501e-07
+04_pell_abordagens_log,2. Iterativa — Θ(n),18,6.83400827913e-07
+04_pell_abordagens_log,2. Iterativa — Θ(n),19,7.19055975508e-07
+04_pell_abordagens_log,2. Iterativa — Θ(n),20,7.32107110325e-07
+04_pell_abordagens_log,2. Iterativa — Θ(n),21,7.65929999989e-07
+04_pell_abordagens_log,2. Iterativa — Θ(n),22,8.04694999988e-07
+04_pell_abordagens_log,2. Iterativa — Θ(n),23,8.44016059855e-07
+04_pell_abordagens_log,2. Iterativa — Θ(n),24,8.86170212768e-07
+04_pell_abordagens_log,2. Iterativa — Θ(n),25,9.08542072917e-07
+04_pell_abordagens_log,2. Iterativa — Θ(n),26,9.80025597925e-07
+04_pell_abordagens_log,2. Iterativa — Θ(n),27,1.03067723903e-06
+04_pell_abordagens_log,2. Iterativa — Θ(n),28,1.06511806192e-06
+04_pell_abordagens_log,2. Iterativa — Θ(n),29,1.14001599999e-06
+04_pell_abordagens_log,2. Iterativa — Θ(n),30,1.15457163421e-06
+04_pell_abordagens_log,2. Iterativa — Θ(n),31,1.19276286188e-06
+04_pell_abordagens_log,2. Iterativa — Θ(n),32,1.24885599995e-06
+04_pell_abordagens_log,3. Matricial — Θ(log n),0,5.16009679793e-08
+04_pell_abordagens_log,3. Matricial — Θ(log n),1,5.27095000007e-08
+04_pell_abordagens_log,3. Matricial — Θ(log n),2,3.77606717986e-07
+04_pell_abordagens_log,3. Matricial — Θ(log n),3,5.42450000012e-07
+04_pell_abordagens_log,3. Matricial — Θ(log n),4,6.76133909303e-07
+04_pell_abordagens_log,3. Matricial — Θ(log n),5,7.48572028521e-07
+04_pell_abordagens_log,3. Matricial — Θ(log n),6,8.95723384874e-07
+04_pell_abordagens_log,3. Matricial — Θ(log n),7,8.99720005571e-07
+04_pell_abordagens_log,3. Matricial — Θ(log n),8,1.04096295186e-06
+04_pell_abordagens_log,3. Matricial — Θ(log n),9,1.06985587244e-06
+04_pell_abordagens_log,3. Matricial — Θ(log n),10,1.20613999998e-06
+04_pell_abordagens_log,3. Matricial — Θ(log n),11,1.21809450965e-06
+04_pell_abordagens_log,3. Matricial — Θ(log n),12,1.39448344131e-06
+04_pell_abordagens_log,3. Matricial — Θ(log n),13,1.26152165654e-06
+04_pell_abordagens_log,3. Matricial — Θ(log n),14,1.35179261632e-06
+04_pell_abordagens_log,3. Matricial — Θ(log n),15,1.37838040489e-06
+04_pell_abordagens_log,3. Matricial — Θ(log n),16,1.51998560451e-06
+04_pell_abordagens_log,3. Matricial — Θ(log n),17,1.37223777151e-06
+04_pell_abordagens_log,3. Matricial — Θ(log n),18,1.54689512414e-06
+04_pell_abordagens_log,3. Matricial — Θ(log n),19,1.54810257583e-06
+04_pell_abordagens_log,3. Matricial — Θ(log n),20,1.73114075431e-06
+04_pell_abordagens_log,3. Matricial — Θ(log n),21,1.57991413678e-06
+04_pell_abordagens_log,3. Matricial — Θ(log n),22,1.68896976487e-06
+04_pell_abordagens_log,3. Matricial — Θ(log n),23,1.67209773217e-06
+04_pell_abordagens_log,3. Matricial — Θ(log n),24,1.77428142966e-06
+04_pell_abordagens_log,3. Matricial — Θ(log n),25,1.57002029563e-06
+04_pell_abordagens_log,3. Matricial — Θ(log n),26,1.75450863933e-06
+04_pell_abordagens_log,3. Matricial — Θ(log n),27,1.77828177796e-06
+04_pell_abordagens_log,3. Matricial — Θ(log n),28,1.93394664207e-06
+04_pell_abordagens_log,3. Matricial — Θ(log n),29,1.77029094184e-06
+04_pell_abordagens_log,3. Matricial — Θ(log n),30,1.91070982256e-06
+04_pell_abordagens_log,3. Matricial — Θ(log n),31,1.91348692103e-06
+04_pell_abordagens_log,3. Matricial — Θ(log n),32,2.08382139751e-06
