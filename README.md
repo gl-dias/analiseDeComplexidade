@@ -153,6 +153,86 @@ Observações que valem um slide:
 - Os valores marcados com "≈" em `resultados.md` vêm de uma busca por duplicação
   com refino binário: são aproximações da fronteira, não o limite exato.
 
+## Nota — e se a linguagem tivesse tipo de tamanho fixo?
+
+A pergunta do enunciado ("qual o maior número que vocês conseguiriam calcular,
+em cada versão?") tem, em Python, uma resposta que **não** passa por tipo de
+dado: inteiros são de precisão arbitrária, então nada estoura. O teto é sempre
+tempo, profundidade de pilha ou memória — é o que as tabelas de cada exercício
+medem.
+
+Vale registrar o outro lado, porque a mesma pergunta feita sobre um trabalho
+escrito em C, C++ ou Java teria uma resposta pequena, exata e independente da
+máquina. Calculamos qual é o último termo de cada sequência que ainda cabe em
+cada tipo:
+
+| Tipo | Fibonacci | Pell | Catalan |
+|---|---|---|---|
+| `int` 32 bits com sinal | F(46) | P(25) | C(19) |
+| `long long` 64 bits com sinal | F(92) | P(50) | C(35) |
+| `unsigned long long` 64 bits | F(93) | P(51) | C(36) |
+| `double` (exato até 2⁵³) | F(78) | P(42) | C(30) |
+
+Valores na fronteira:
+
+- F(92) = 7.540.113.804.746.346.429 — último Fibonacci que cabe em 64 bits com
+  sinal. F(93) = 12.200.160.415.121.876.738 já estoura (mas ainda cabe em
+  `unsigned`).
+- P(50) = 4.866.752.642.924.153.522.
+- C(35) = 3.116.285.494.907.301.262.
+
+### Por que Pell para na metade do caminho de Fibonacci
+
+Não é coincidência, e é o mesmo argumento que aparece no exercício 2: as duas
+sequências têm a **mesma árvore de recursão** (mesmo custo Θ(φⁿ)), mas os
+**valores** crescem em bases diferentes. Cada termo consome, em bits:
+
+| Sequência | crescimento | bits por termo |
+|---|---|---|
+| Fibonacci | φⁿ, φ ≈ 1,618 | log₂φ ≈ 0,69 |
+| Pell | (1+√2)ⁿ ≈ 2,414ⁿ | log₂(1+√2) ≈ 1,27 |
+| Catalan | 4ⁿ/(n^1,5·√π) | ≈ 2 (menos a correção de n^1,5) |
+
+Daí a regra de bolso: com 63 bits úteis, n ≈ 63/0,69 ≈ 91 para Fibonacci e
+n ≈ 63/1,27 ≈ 50 para Pell — praticamente os valores exatos da tabela acima.
+Pell gasta quase o dobro de bits por termo, então chega à metade do n. Em
+Catalan a regra superestima um pouco, porque o divisor n^1,5 devolve alguns
+bits (por isso C(35) e não C(31)).
+
+### Estourar não é a mesma coisa que perder precisão
+
+São dois modos de falha diferentes, e confundi-los é um erro comum:
+
+- **Inteiro de tamanho fixo estoura.** Em Java, `int` e `long` dão a volta
+  silenciosamente em complemento de dois — comportamento definido pela
+  especificação. Em C e C++, overflow de inteiro **com sinal** é comportamento
+  indefinido; o `unsigned` é que dá a volta módulo 2ⁿ. Em nenhum dos casos o
+  programa avisa: ele devolve um número errado e segue.
+- **`double` não estoura tão cedo — ele mente antes.** O limite de 2⁵³ não é
+  overflow (isso só aconteceria perto de 1,8×10³⁰⁸): é o ponto a partir do qual
+  o `double` deixa de representar **todo** inteiro exatamente e passa a
+  arredondar. O programa continua rodando e o resultado continua parecendo
+  plausível.
+
+Detalhe que fecha a nota: **C(30) = 3.814.986.502.092.304 é exatamente o último
+número de Catalan representável sem perda num `double`** — e é o mesmo C(30)
+que aparece na tabela de tempos do exercício 3.
+
+### Os tetos que o Python tem
+
+Precisão arbitrária não significa "sem limite algum". Os três que encontramos:
+
+1. **Profundidade de pilha** — `RecursionError` por volta de n ≈ 996 na versão
+   memoizada, que é `sys.getrecursionlimit()` (1000 por padrão) menos os
+   quadros já em uso.
+2. **Impressão do resultado** — a partir do Python 3.11 a conversão int→str é
+   limitada a 4300 dígitos por padrão. F(1.330.000) tem 277.954 dígitos: o
+   cálculo termina em menos de 1 s, mas `print()` levanta exceção se o limite
+   não for elevado com `sys.set_int_max_str_digits()`. É por isso que `main.py`
+   faz isso logo no início.
+3. **Tempo e memória** — o teto que efetivamente vale na prática, e o que as
+   tabelas deste trabalho medem.
+
 ## Referências
 
 - CORMEN, T. H.; LEISERSON, C. E.; RIVEST, R. L.; STEIN, C. *Introduction to
