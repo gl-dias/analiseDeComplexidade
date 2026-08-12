@@ -174,7 +174,7 @@ Observações que valem um slide:
 - HUNTER, J. D. Matplotlib: A 2D Graphics Environment. *Computing in Science &
   Engineering*, v. 9, n. 3, p. 90-95, 2007.
 
-## Uso de IA (declaração exigida pelo professor)
+## Uso de IA 
 
 **Ferramenta:** Claude (Anthropic), modelo Claude Opus 5, via claude.ai.
 
