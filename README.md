@@ -2,7 +2,7 @@
 
 **Disciplina:** IBM0798 — Análise e Complexidade de Algoritmos
 **Professor:** Cassius Figueiredo
-**Grupo:** Guilherme Dias - 202402972091 ; Breno Chaves - 202402798502 ; Babara Malta - 202402898892 ; Guilherme Rocha - 202402075365
+**Grupo:** Guilherme Dias - 202402972091 ; Breno Chaves - 202402798502 ; Barbara Malta - 202402898892 ; Guilherme Rocha - 202402075365
 
 Implementações comentadas, medição de tempo e gráficos comparativos para os três
 exercícios da aula introdutória.
